@@ -11,7 +11,7 @@
 // IMPORTANT:
 // Replace the variables below with the values ​​that suit for you!
 // -------------------------------------
-const int RELAY_PIN       = 2;          
+const int RELAY_PIN       = D7;          
 const String RELAY_DEVICE = "FC:F5:C4:89:A6:EB";
 const String routername   = "<>";
 const String routerpwd    = "<>";
